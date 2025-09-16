@@ -1,4 +1,3 @@
-%%{init: {'theme': 'neutral'}}%%
 flowchart TD
     A[User Inputs: Resume PDF + Job Description] --> B[Streamlit UI]
     B --> C[PDF Extractor + Text Parser]

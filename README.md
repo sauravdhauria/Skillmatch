@@ -3,7 +3,7 @@
 SkillMatch is an AI-powered resume optimization and job-matching assistant built using Streamlit and Google Gemini.
 It analyzes resumes against job descriptions, identifies skill gaps, predicts ATS scores, and generates tailored resume recommendations.
 
- 🌐 Live App: skillmatchaisaurav.streamlit.app
+🌐 Live App: [skillmatchaisaurav.streamlit.app](https://skillmatchaisaurav.streamlit.app/) 
 
 ---
 

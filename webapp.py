@@ -26,7 +26,7 @@ if file:
 #Lets define the main page: 
 
 st.title(":orange[SKILLMATCH] : :blue[AI ASSISTED JOB MATCHING TOOL]")
-st.markdown("##### :green[Find your perfect job match with SkillMatch - the AI-powered job matching tool that connects your skills to top job opportunities!]")
+st.markdown("##### :green[Find your perfect job match with SkillMatch - The AI-powered job matching tool that connects your skills to top job opportunities!]")
 tips='''Follow these steps to proceed:
 * Upload your resume in the sidebar (PDF format only)
 * Copy and paste the job description below for which you are applying
